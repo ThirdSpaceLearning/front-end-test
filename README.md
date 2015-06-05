@@ -7,12 +7,12 @@ Task:
 1. Style the attached `index.html` file using **only** CSS, based on the mockup. No HTML elements may be modified, added, or removed.
 
 2. Using JavaScript or jQuery, build two event handlers:
-  a. Disable the 'Submit' button after it has been clicked
+  a. Disable the 'Submit' button after it has been clicked and change its background color to #ddd.
   b. Change the text of 'Sign up for a free demo!' to 'Thank you. We will be in touch shortly.'
-  c. Slide out the navigation menu on mouseover.
+
+The font used is Helvetica, and the shade of purple used is rgba(99,41,177,1).
 
 Rules, Hints & Tips:
 
-1. Bootstrap, Foundation, and other front-end/CSS libraries may not be used. Although we use SCSS in production, for the purposes of this test plain old CSS will be used.
-2. Get as far as you can within 30 minutes, but think about how to prioritise tasks such that the greatest business value is added.
-3. Try to choose variable names that are clear and reusable.
+1. Bootstrap, Foundation, and other front-end/CSS libraries may not be used. If you have a Sass or Less compiler already installed on your machine you may use it, but we recommend using plain old CSS.
+2. Get as far as you can within 30 minutes. We prefer to see well-structured, unfinished code over completed but incomprehensible code.
