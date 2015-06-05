@@ -7,7 +7,9 @@ Task:
 1. Style the attached `index.html` file using **only** CSS, based on the mockup. No HTML elements may be modified, added, or removed.
 
 2. Using JavaScript or jQuery, build two event handlers:
+  
   a. Disable the 'Submit' button after it has been clicked and change its background color to #ddd.
+  
   b. Change the text of 'Sign up for a free demo!' to 'Thank you. We will be in touch shortly.'
 
 The font used is Helvetica, and the shade of purple used is rgba(99,41,177,1).
